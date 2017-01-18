@@ -1,0 +1,22 @@
+{
+  "name": "timeline",
+  "homepage": "https://github.com/samnith/newtimeline",
+  "authors": [
+    "Tat_Samnith <tatsamnith083@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "bootstrap": "^3.3.7"
+  }
+}

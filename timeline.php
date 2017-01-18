@@ -7,11 +7,11 @@ session_start();
             Search form timeline
         </title>
         <!--bootstrap-->
-        <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
         <!-- css style-->
         <link rel="stylesheet" href="style.css">
         <!--font awesome-->
-        <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+        <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
     </head>
 <body>
 <?php
@@ -84,7 +84,7 @@ else{
     </div>
 </div>
 <!-- file js bootstrap-->
-<script src="bootstrap/js/jquery.min.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/jquery.min.js"></script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
 </html>
