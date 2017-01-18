@@ -1,5 +1,5 @@
 <?php
-class TimeLine
+class TimeLine{
     public function Service(){
 
         $service = array(
